@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://metionas.github.io/sitemap.html.gz
+Sitemap: https://metionas.github.io/app/sitemap.html.gz
+Sitemap: https://metionas.github.io/assets/sitemap.html.gz
+Sitemap: https://metionas.github.io/css/sitemap.html.gz
+Sitemap: https://metionas.github.io/includes/sitemap.html.gz
+Sitemap: https://metionas.github.io/item/sitemap.html.gz
+Sitemap: https://metionas.github.io/src/sitemap.html.gz
